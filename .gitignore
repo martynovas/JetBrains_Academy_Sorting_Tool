@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Problems/Fix the program (1)/out/
+/Problems/Fix the program (1)/out/production/classes/
+/Problems/Integer division/out/
+/Problems/Integer division/out/production/classes/
+/Problems/Letters/out/
+/Problems/Letters/out/production/classes/
+/Problems/Most common/out/
+/Problems/Most common/out/production/classes/
+/Problems/Vowels/out/
+/Problems/Vowels/out/production/classes/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/

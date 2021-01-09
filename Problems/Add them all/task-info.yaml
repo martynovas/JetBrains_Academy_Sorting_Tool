@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(first: List<Int>, second: List<Int>): MutableList<Int> {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11039
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11039">JetBrains
+    Academy</a></html>
+  time: Mon, 04 Jan 2021 17:53:29 UTC
+record: -1

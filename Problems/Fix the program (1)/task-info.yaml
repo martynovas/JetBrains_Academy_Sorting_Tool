@@ -1,0 +1,23 @@
+type: code
+custom_name: Fix the program
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fu main() {
+        val a = readLine()!!.nextInt()
+        val b = readLine()!!.nextInt()
+        val c = readLine()!!.nextInt()
+
+        val sum = a - b - d
+
+        println(sum)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11562
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11562">JetBrains
+    Academy</a></html>
+  time: Tue, 05 Jan 2021 19:57:43 UTC
+record: -1

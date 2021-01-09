@@ -1,0 +1,8 @@
+Total numbers: 12.
+1: 1 time(s), 8%
+7: 1 time(s), 8%
+9: 1 time(s), 8%
+11: 1 time(s), 8%
+2: 2 time(s), 16%
+4: 2 time(s), 16%
+3: 4 time(s), 33%
